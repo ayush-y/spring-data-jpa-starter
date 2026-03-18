@@ -1,4 +1,4 @@
-spring-data-jpa-setUp
+``` spring-data-jpa-setUp
 │
 ├── src/main/java/org/example/springdatajpasetup
 │   ├── SpringDataJpaSetUpApplication.java
